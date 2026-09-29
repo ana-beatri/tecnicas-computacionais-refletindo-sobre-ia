@@ -10,7 +10,9 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "afirmacao"
+                afirmacao: ["No  "
+
+                ]
             },
             {
                 texto: "Isso é maravilhoso!",
@@ -28,7 +30,8 @@ const perguntas = [
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                afirmacao:"["Sentiu mais facilidade em utilizar seus proprios recursos para escrever seu trabalho"
+                "Achou que era muito mais facil 
             }
         ]
     },
@@ -37,11 +40,15 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:"afirmacao"
+                afirmacao:["sua preocupação com pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios e utilização de IA  de forma ética"
+                    
+                ]
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:"afirmacao"
+                afirmacao:["Vem impulsionando a inovação na área de IA e luta para abrir profissionais com IA"
+                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA"
+                ]
             }
             
         ]
