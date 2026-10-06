@@ -10,13 +10,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: ["No  "
-
+                afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer.",
+"Achou assustador pensar na velocidade na qual a tecnologia está avançando"
                 ]
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                afirmacao: [" Quis saber como usar IA no seu dia a dia.",
+"Foi atrás de vídeos, artigos e mais informações sobre como utilizar essa tecnologia"
+                ]
             }           
             
         ]
@@ -26,13 +28,16 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:"afirmacao"
+                afirmacao:[" Conseguiu utilizar a IA para buscar informações úteis.",
+" Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais simples e direcionada.",
+"Percebei que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                ]
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"["Sentiu mais facilidade em utilizar seus proprios recursos para escrever seu trabalho"
-                "Achou que era muito mais facil 
-            }
+                afirmacao:"["Sentiu mais facilidade em utilizar seus proprios recursos para escrever seu trabalho.", 
+                "Achou que era muito mais facil procurar respostas utilizando meios mais tradicionais mesmo que levasse mais tempo.",
+            "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia"}
         ]
     },
     {
@@ -40,8 +45,8 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:["sua preocupação com pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios e utilização de IA  de forma ética"
-                    
+                afirmacao:["sua preocupação com pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios e utilização de IA  de forma ética",
+                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ]
             },
             {
